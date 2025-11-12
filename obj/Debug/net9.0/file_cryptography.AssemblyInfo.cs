@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("file_cryptography")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+116f4846d74bdd705d8bd68545d3ba0c10d4dbdf")]
 [assembly: System.Reflection.AssemblyProductAttribute("file_cryptography")]
 [assembly: System.Reflection.AssemblyTitleAttribute("file_cryptography")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
