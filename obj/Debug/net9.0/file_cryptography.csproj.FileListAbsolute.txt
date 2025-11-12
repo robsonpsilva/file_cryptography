@@ -1,0 +1,14 @@
+C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE-310\file_cryptography\bin\Debug\net9.0\file_cryptography.exe
+C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE-310\file_cryptography\bin\Debug\net9.0\file_cryptography.deps.json
+C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE-310\file_cryptography\bin\Debug\net9.0\file_cryptography.runtimeconfig.json
+C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE-310\file_cryptography\bin\Debug\net9.0\file_cryptography.dll
+C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE-310\file_cryptography\bin\Debug\net9.0\file_cryptography.pdb
+C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE-310\file_cryptography\obj\Debug\net9.0\file_cryptography.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE-310\file_cryptography\obj\Debug\net9.0\file_cryptography.AssemblyInfoInputs.cache
+C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE-310\file_cryptography\obj\Debug\net9.0\file_cryptography.AssemblyInfo.cs
+C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE-310\file_cryptography\obj\Debug\net9.0\file_cryptography.csproj.CoreCompileInputs.cache
+C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE-310\file_cryptography\obj\Debug\net9.0\file_cryptography.dll
+C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE-310\file_cryptography\obj\Debug\net9.0\refint\file_cryptography.dll
+C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE-310\file_cryptography\obj\Debug\net9.0\file_cryptography.pdb
+C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE-310\file_cryptography\obj\Debug\net9.0\file_cryptography.genruntimeconfig.cache
+C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE-310\file_cryptography\obj\Debug\net9.0\ref\file_cryptography.dll
