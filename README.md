@@ -1,4 +1,4 @@
-# CSE310---BookStore--Module1
+# CSE310---File Cryptography--Module2
 
 # Overview
 
@@ -6,7 +6,7 @@ This application is part of the CSE-310 course activities, serving as a robust f
 
 # Algorithm Summary
 
-The core algorithm used is AES-256 (Advanced Encryption Standard). A strong, unique cryptographic key is generated from the user's passphrase using the PBKDF2 (Password-Based Key Derivation Function 2) function, which includes a randomly generated Salt to ensure security and resistance against brute-force attacks.
+The core algorithm used is AES-256 (Advanced Encryption Standard). A strong, unique cryptographic key is generated from the user's passphrase using the PBKDF2 (Password-Based Key Derivation Function 2) function, which includes a randomly generated salt to ensure security and resistance against brute-force attacks.
 
 #  Key Features
 
@@ -51,4 +51,5 @@ C# (C Sharp) is a modern, object-oriented, and statically-typed programming lang
 
 * [Microsoft Ignite](https://learn.microsoft.com/en-us/dotnet/csharp/)
 * [Programiz](https://www.programiz.com/csharp-programming)
+* [StackOverflow](https://stackoverflow.com/questions/22385229/best-practices-for-symmetric-encryption-in-net)
 
