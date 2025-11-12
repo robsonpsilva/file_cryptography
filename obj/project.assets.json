@@ -8,19 +8,19 @@
     "net9.0": []
   },
   "packageFolders": {
-    "C:\\Users\\cmrs\\.nuget\\packages\\": {}
+    "/Users/robsonpaulodasilva/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\cmrs\\OneDrive - PETROBRAS\\Documents\\GitHub\\CSE-310\\file_cryptography\\file_cryptography.csproj",
+      "projectUniqueName": "/Users/robsonpaulodasilva/Library/CloudStorage/GoogleDrive-robson_p_s@yahoo.com.br/Meu Drive/Estudo/BYU/cse310/file_cryptography/file_cryptography.csproj",
       "projectName": "file_cryptography",
-      "projectPath": "C:\\Users\\cmrs\\OneDrive - PETROBRAS\\Documents\\GitHub\\CSE-310\\file_cryptography\\file_cryptography.csproj",
-      "packagesPath": "C:\\Users\\cmrs\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\cmrs\\OneDrive - PETROBRAS\\Documents\\GitHub\\CSE-310\\file_cryptography\\obj\\",
+      "projectPath": "/Users/robsonpaulodasilva/Library/CloudStorage/GoogleDrive-robson_p_s@yahoo.com.br/Meu Drive/Estudo/BYU/cse310/file_cryptography/file_cryptography.csproj",
+      "packagesPath": "/Users/robsonpaulodasilva/.nuget/packages/",
+      "outputPath": "/Users/robsonpaulodasilva/Library/CloudStorage/GoogleDrive-robson_p_s@yahoo.com.br/Meu Drive/Estudo/BYU/cse310/file_cryptography/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\cmrs\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/Users/robsonpaulodasilva/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
@@ -65,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.307/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.306/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
