@@ -35,7 +35,7 @@ The goal is to practice basic application development skills by creating an appl
 
 # Youtube link
 
-[BookStore](https://youtu.be/316Y3SIsgqQ)
+[BookStore](https://youtu.be/lx07s_D9GEM)
 
 # Development Environment
 
